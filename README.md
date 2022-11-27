@@ -23,14 +23,15 @@ Poke me for the group chat and shared scoreboard.
 
 ## 2020
 
-| Who   | Url                                                 | Language |
-|:------|:----------------------------------------------------|:---------|
-| Johan | https://github.com/mrboogiee/adventofcode2020 | Go |
-| Joost | https://github.com/vlabakje/avoc2020 | Python |
-| Steph | https://github.com/CZero/advent-of-code-2020 | Go |
+| Who   | Url                                           | Language |
+|:------|:----------------------------------------------|:---------|
+| Johan | https://github.com/mrboogiee/adventofcode2020 | Go       |
+| Joost | https://github.com/vlabakje/avoc2020          | Python   |
+| Steph | https://github.com/CZero/advent-of-code-2020  | Go       |
 
 ## 2019
 
-| Who   | Url                                                 | Language |
-|:------|:----------------------------------------------------|:---------|
-| Joost | https://github.com/vlabakje/aoc2019 | Python | 
+| Who   | Url                                          | Language |
+|:------|:---------------------------------------------|:---------|
+| Joost | https://github.com/vlabakje/aoc2019          | Python   |
+| Steph | https://github.com/CZero/advent-of-code-2019 | Go       |
