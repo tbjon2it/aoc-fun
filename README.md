@@ -6,9 +6,10 @@ Poke me for the group chat and shared scoreboard.
 
 ## 2022
 
-| Who   | Url                                          | Language |
-|:------|:---------------------------------------------|:---------|
-| Steph | https://github.com/CZero/advent-of-code-2022 | Go       |
+| Who   | Url                                                  | Language |
+|:------|:-----------------------------------------------------|:---------|
+| Steph | https://github.com/CZero/advent-of-code-2022         | Go       |
+| Yuri  | https://github.com/CommanderKronos/AdventofCode-2022 | ?        |
 
 ## 2021
 
@@ -35,3 +36,9 @@ Poke me for the group chat and shared scoreboard.
 |:------|:---------------------------------------------|:---------|
 | Joost | https://github.com/vlabakje/aoc2019          | Python   |
 | Steph | https://github.com/CZero/advent-of-code-2019 | Go       |
+
+## 2017
+
+| Who   | Url                                          | Language |
+|:------|:---------------------------------------------|:---------|
+| Steph | https://github.com/CZero/advent-of-code-2017 | Go       |
