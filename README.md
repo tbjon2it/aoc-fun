@@ -9,7 +9,7 @@ Poke me for the group chat and shared scoreboard.
 | Who   | Url                                                  | Language |
 |:------|:-----------------------------------------------------|:---------|
 | Steph | https://github.com/CZero/advent-of-code-2022         | Go       |
-| Yuri  | https://github.com/CommanderKronos/AdventofCode-2022 | ?        |
+| Yuri  | https://github.com/CommanderKronos/AdventofCode-2022 | Rust        |
 
 ## 2021
 
