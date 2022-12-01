@@ -4,6 +4,8 @@ A repo to track repo's of friends and colleagues doing AOC
 
 Poke me for the group chat and shared scoreboard.
 
+[Scoreboard](https://adventofcode.com/2022/leaderboard/private/view/792151?order=stars) (poke me for the code)
+
 ## 2022
 
 | Who   | Url                                                  | Language |
