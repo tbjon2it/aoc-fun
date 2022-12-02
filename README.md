@@ -20,15 +20,16 @@ Poke me for access to the board and the group chat!
 
 ## 2021
 
-| Who      | Url                                                 | Language      |
-|:---------|:----------------------------------------------------|:--------------|
-| Fred-Jan | https://github.com/fred-jan/aoc22                   | PHP / Haskell |
-| Johan    | https://github.com/mrboogiee/adventofcode2021       | Go            |
-| Joost    | https://github.com/vlabakje/aoc2021                 | Python        |
-| Paul     | https://github.com/PaulGrootIlionx/AdventOfCode2021 | SQL           |
-| Rob      | https://github.com/RobM83/AdventOfCode2021          | Go            |
-| Ruben    | https://github.com/coooby12/AdventOfCode2021        | Python        |
-| Steph    | https://github.com/CZero/Advent-of-Code-2021        | Go            |
+| Who       | Url                                                 | Language      |
+|:----------|:----------------------------------------------------|:--------------|
+| Catharina | https://github.com/Damning01/AoC2022                | C++           |
+| Fred-Jan  | https://github.com/fred-jan/aoc22                   | PHP / Haskell |
+| Johan     | https://github.com/mrboogiee/adventofcode2021       | Go            |
+| Joost     | https://github.com/vlabakje/aoc2021                 | Python        |
+| Paul      | https://github.com/PaulGrootIlionx/AdventOfCode2021 | SQL           |
+| Rob       | https://github.com/RobM83/AdventOfCode2021          | Go            |
+| Ruben     | https://github.com/coooby12/AdventOfCode2021        | Python        |
+| Steph     | https://github.com/CZero/Advent-of-Code-2021        | Go            |
 
 ## 2020
 
