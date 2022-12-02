@@ -8,25 +8,27 @@ Poke me for access to the board and the group chat!
 
 ## 2022
 
-| Who    | Url                                                  | Language |
-|:-------|:-----------------------------------------------------|:---------|
-| Johan  | https://github.com/mrboogiee/adventofcode2022        | Go       |
-| Martin | https://github.com/digibeuk/advent-of-code-2022      | PHP      |
-| Peter  | https://github.com/pvdleek/advent-of-code-2022       | PHP      |
-| Rob    | https://github.com/RobM83/AdventOfCode2022           | Go       |
-| Steph  | https://github.com/CZero/advent-of-code-2022         | Go       |
-| Yuri   | https://github.com/CommanderKronos/AdventofCode-2022 | Rust     |
+| Who      | Url                                                  | Language      |
+|:---------|:-----------------------------------------------------|:--------------|
+| Fred-Jan | https://github.com/fred-jan/aoc22                    | PHP / Haskell |
+| Johan    | https://github.com/mrboogiee/adventofcode2022        | Go            |
+| Martin   | https://github.com/digibeuk/advent-of-code-2022      | PHP           |
+| Peter    | https://github.com/pvdleek/advent-of-code-2022       | PHP           |
+| Rob      | https://github.com/RobM83/AdventOfCode2022           | Go            |
+| Steph    | https://github.com/CZero/advent-of-code-2022         | Go            |
+| Yuri     | https://github.com/CommanderKronos/AdventofCode-2022 | Rust          |
 
 ## 2021
 
-| Who   | Url                                                 | Language |
-|:------|:----------------------------------------------------|:---------|
-| Johan | https://github.com/mrboogiee/adventofcode2021       | Go       |
-| Joost | https://github.com/vlabakje/aoc2021                 | Python   |
-| Paul  | https://github.com/PaulGrootIlionx/AdventOfCode2021 | SQL      |
-| Rob   | https://github.com/RobM83/AdventOfCode2021          | Go       |
-| Ruben | https://github.com/coooby12/AdventOfCode2021        | Python   |
-| Steph | https://github.com/CZero/Advent-of-Code-2021        | Go       |
+| Who      | Url                                                 | Language      |
+|:---------|:----------------------------------------------------|:--------------|
+| Fred-Jan | https://github.com/fred-jan/aoc22                   | PHP / Haskell |
+| Johan    | https://github.com/mrboogiee/adventofcode2021       | Go            |
+| Joost    | https://github.com/vlabakje/aoc2021                 | Python        |
+| Paul     | https://github.com/PaulGrootIlionx/AdventOfCode2021 | SQL           |
+| Rob      | https://github.com/RobM83/AdventOfCode2021          | Go            |
+| Ruben    | https://github.com/coooby12/AdventOfCode2021        | Python        |
+| Steph    | https://github.com/CZero/Advent-of-Code-2021        | Go            |
 
 ## 2020
 
