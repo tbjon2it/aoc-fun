@@ -15,6 +15,7 @@ Poke me for access to the board and the group chat!
 | Johan     | https://github.com/mrboogiee/adventofcode2022        | Go            |
 | Joost     | https://github.com/vlabakje/aoc2022                  | Python        |
 | Martin    | https://github.com/digibeuk/advent-of-code-2022      | PHP           |
+| Paul      | https://github.com/PaulGrootIlionx/AdventOfCode2022  | SQL           |
 | Peter     | https://github.com/pvdleek/advent-of-code-2022       | PHP           |
 | Rob       | https://github.com/RobM83/AdventOfCode2022           | Go            |
 | Steph     | https://github.com/CZero/advent-of-code-2022         | Go            |
