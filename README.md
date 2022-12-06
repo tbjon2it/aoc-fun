@@ -13,6 +13,7 @@ Poke me for access to the board and the group chat!
 | Catharina | https://github.com/Damning01/AoC2022                 | C++           |
 | Fred-Jan  | https://github.com/fred-jan/aoc22                    | PHP / Haskell |
 | Johan     | https://github.com/mrboogiee/adventofcode2022        | Go            |
+| Joost     | https://github.com/vlabakje/aoc2022                  | Python        |
 | Martin    | https://github.com/digibeuk/advent-of-code-2022      | PHP           |
 | Peter     | https://github.com/pvdleek/advent-of-code-2022       | PHP           |
 | Rob       | https://github.com/RobM83/AdventOfCode2022           | Go            |
