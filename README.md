@@ -10,6 +10,7 @@ Poke me for access to the board and the group chat!
 
 | Who       | Url                                                  | Language      |
 |:----------|:-----------------------------------------------------|:--------------|
+| Bas       | https://github.com/KoalaBear84/AdventOfCode2022      | C#            |
 | Catharina | https://github.com/Damning01/AoC2022                 | C++           |
 | Fred-Jan  | https://github.com/fred-jan/aoc22                    | PHP / Haskell |
 | Johan     | https://github.com/mrboogiee/adventofcode2022        | Go            |
