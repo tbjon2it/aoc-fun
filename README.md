@@ -2,7 +2,7 @@
 
 A repo to track repo's of friends and colleagues doing AOC
 
-[Scoreboard](https://adventofcode.com/2022/leaderboard/private/view/792151?order=stars)
+[Scoreboard](https://adventofcode.com/2023/leaderboard/private/view/792151?order=stars)
 
 Poke me for access to the board and the group chat!
 
