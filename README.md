@@ -10,7 +10,8 @@ Poke me for access to the board and the group chat!
 
 | Who   | Url                                                  | Language |
 | :---- | :--------------------------------------------------- | :------- |
-| J$    | https://github.com/roenass/AoC23                     |          |
+| Joost | https://github.com/vlabakje/aoc2023                  | Python   |
+| J$    | https://github.com/roenass/AoC23                     | Ruby     |
 | Steph | https://github.com/CZero/Advent-of-Code-2023         | Go       |
 | Yuri  | https://github.com/CommanderKronos/AdventofCode-2023 | Rust     |
 
