@@ -12,6 +12,7 @@ Poke me for access to the board and the group chat!
 | :---- | :--------------------------------------------------- | :------- |
 | Joost | https://github.com/vlabakje/aoc2023                  | Python   |
 | J$    | https://github.com/roenass/AoC23                     | Ruby     |
+| Rob   | https://github.com/RobM83/AdventOfCode2023           | Go       |
 | Steph | https://github.com/CZero/Advent-of-Code-2023         | Go       |
 | Yuri  | https://github.com/CommanderKronos/AdventofCode-2023 | Rust     |
 
