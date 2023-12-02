@@ -10,6 +10,7 @@ Poke me for access to the board and the group chat!
 
 | Who   | Url                                                  | Language |
 | :---- | :--------------------------------------------------- | :------- |
+| Bram  | https://github.com/BramUt/AdventofCode-2023          | Rust     |
 | Joost | https://github.com/vlabakje/aoc2023                  | Python   |
 | J$    | https://github.com/roenass/AoC23                     | Ruby     |
 | Rob   | https://github.com/RobM83/AdventOfCode2023           | Go       |
