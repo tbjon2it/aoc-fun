@@ -10,11 +10,13 @@ Poke me for access to the board and the group chat!
 
 ### Advent of Code
 
-| Who   | Url                                          | Language |
-|:------|:---------------------------------------------|:---------|
-| Derk  | https://github.com/derkbell/aoc2024          | Rust     |
-| Steph | https://github.com/CZero/Advent-of-Code-2024 | Go       |
-| Jelle | https://github.com/jellykings/AoC            | Python   |
+| Who     | Url                                          | Language |
+|:--------|:---------------------------------------------|:---------|
+| Derk    | https://github.com/derkbell/aoc2024          | Rust     |
+| Jelle   | https://github.com/jellykings/AoC            | Python   |
+| Joost   | https://github.com/vlabakje/aoc2024          | Python   |
+| Steph   | https://github.com/CZero/Advent-of-Code-2024 | Go       |
+| Stephan | https://code.steph.tools/steph/adventofcode  | Haskell  |
 
 ### Everybody Codes
 
