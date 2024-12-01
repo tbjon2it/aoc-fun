@@ -12,6 +12,7 @@ Poke me for access to the board and the group chat!
 
 | Who     | Url                                          | Language |
 |:--------|:---------------------------------------------|:---------|
+| Bart    | https://github.com/Bart73-v/AoC2024          | Bash     |
 | Derk    | https://github.com/derkbell/aoc2024          | Rust     |
 | Jelle   | https://github.com/jellykings/AoC            | Python   |
 | Joost   | https://github.com/vlabakje/aoc2024          | Python   |
