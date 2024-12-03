@@ -17,6 +17,7 @@ Poke me for access to the board and the group chat!
 | Fred-Jan | https://github.com/fred-jan/aoc24            | Rust     |
 | Jelle    | https://github.com/jellykings/AoC            | Python   |
 | Joost    | https://github.com/vlabakje/aoc2024          | Python   |
+| Rob      | https://github.com/RobM83/AdventOfCode2024   | Go       |
 | Steph    | https://github.com/CZero/Advent-of-Code-2024 | Go       |
 | Stephan  | https://code.steph.tools/steph/adventofcode  | Haskell  |
 
