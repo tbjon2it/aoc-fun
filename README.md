@@ -21,12 +21,6 @@ Poke me for access to the board and the group chat!
 | Steph    | https://github.com/CZero/Advent-of-Code-2024 | Go       |
 | Stephan  | https://code.steph.tools/steph/adventofcode  | Haskell  |
 
-### Everybody Codes
-
-| Who   | Url                                           | Language |
-|:------|:----------------------------------------------|:---------|
-| Steph | https://github.com/CZero/Everybody-Codes-2024 | Go       |
-
 ## 2023
 
 | Who      | Url                                                  | Language             |
