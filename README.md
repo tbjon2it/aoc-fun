@@ -8,16 +8,17 @@ Poke me for access to the board and the group chat!
 
 ## 2024
 
-| Who      | Url                                          | Language |
-|:---------|:---------------------------------------------|:---------|
-| Bart     | https://github.com/Bart73-v/AoC2024          | Bash     |
-| Derk     | https://github.com/derkbell/aoc2024          | Rust     |
-| Fred-Jan | https://github.com/fred-jan/aoc24            | Rust     |
-| Jelle    | https://github.com/jellykings/AoC            | Python   |
-| Joost    | https://github.com/vlabakje/aoc2024          | Python   |
-| Rob      | https://github.com/RobM83/AdventOfCode2024   | Go       |
-| Steph    | https://github.com/CZero/Advent-of-Code-2024 | Go       |
-| Stephan  | https://code.steph.tools/steph/adventofcode  | Haskell  |
+| Who       | Url                                          | Language |
+|:----------|:---------------------------------------------|:---------|
+| Bart      | https://github.com/Bart73-v/AoC2024          | Bash     |
+| Catharina | https://github.com/Damning01/AoC2024         | Python   |
+| Derk      | https://github.com/derkbell/aoc2024          | Rust     |
+| Fred-Jan  | https://github.com/fred-jan/aoc24            | Rust     |
+| Jelle     | https://github.com/jellykings/AoC            | Python   |
+| Joost     | https://github.com/vlabakje/aoc2024          | Python   |
+| Rob       | https://github.com/RobM83/AdventOfCode2024   | Go       |
+| Steph     | https://github.com/CZero/Advent-of-Code-2024 | Go       |
+| Stephan   | https://code.steph.tools/steph/adventofcode  | Haskell  |
 
 ## 2023
 
