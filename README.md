@@ -10,6 +10,7 @@ Poke me for access to the board and the group chat!
 
 | Who       | Url                                          | Language |
 |:----------|:---------------------------------------------|:---------|
+| Tom       | https://github.com/tbjon2it/AoC              | JS       |
 | Bart      | https://github.com/Bart73-v/AoC2024          | Bash     |
 | Catharina | https://github.com/Damning01/AoC2024         | Python   |
 | Derk      | https://github.com/derkbell/aoc2024          | Rust     |
