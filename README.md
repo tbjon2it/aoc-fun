@@ -1,14 +1,12 @@
 # aoc-fun
 
-A repo to track repo's of friends and colleagues doing AOC
+A repo to track repo's of friends and colleagues doing [Advent of Code](https://adventofcode.com)
 
 [Scoreboard](https://adventofcode.com/2023/leaderboard/private/view/792151?order=stars)
 
 Poke me for access to the board and the group chat!
 
 ## 2024
-
-### Advent of Code
 
 | Who      | Url                                          | Language |
 |:---------|:---------------------------------------------|:---------|
